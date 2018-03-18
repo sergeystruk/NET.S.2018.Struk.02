@@ -1,0 +1,5 @@
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations\bin\Debug\IntegerOperations.dll
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations\bin\Debug\IntegerOperations.pdb
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations\obj\Debug\IntegerOperations.csproj.CoreCompileInputs.cache
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations\obj\Debug\IntegerOperations.dll
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations\obj\Debug\IntegerOperations.pdb

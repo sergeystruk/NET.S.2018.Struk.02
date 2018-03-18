@@ -1,0 +1,12 @@
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil.Tests\obj\Debug\ArrayUtil.Tests.csprojResolveAssemblyReference.cache
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil.Tests\obj\Debug\ArrayUtil.Tests.csproj.CoreCompileInputs.cache
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil.Tests\bin\Debug\ArrayUtil.Tests.dll
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil.Tests\bin\Debug\ArrayUtil.Tests.pdb
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil.Tests\bin\Debug\ArrayUtil.dll
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil.Tests\bin\Debug\nunit.framework.dll
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil.Tests\bin\Debug\ArrayUtil.pdb
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil.Tests\bin\Debug\nunit.framework.pdb
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil.Tests\bin\Debug\nunit.framework.xml
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil.Tests\obj\Debug\ArrayUtil.Tests.csproj.CopyComplete
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil.Tests\obj\Debug\ArrayUtil.Tests.dll
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil.Tests\obj\Debug\ArrayUtil.Tests.pdb

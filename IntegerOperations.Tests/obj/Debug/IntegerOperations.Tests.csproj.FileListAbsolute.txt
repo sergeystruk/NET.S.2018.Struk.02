@@ -1,0 +1,12 @@
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations.Tests\bin\Debug\IntegerOperations.Tests.dll
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations.Tests\bin\Debug\IntegerOperations.Tests.pdb
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations.Tests\bin\Debug\IntegerOperations.dll
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations.Tests\bin\Debug\nunit.framework.dll
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations.Tests\bin\Debug\IntegerOperations.pdb
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations.Tests\bin\Debug\nunit.framework.pdb
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations.Tests\bin\Debug\nunit.framework.xml
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations.Tests\obj\Debug\IntegerOperations.Tests.csprojResolveAssemblyReference.cache
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations.Tests\obj\Debug\IntegerOperations.Tests.csproj.CoreCompileInputs.cache
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations.Tests\obj\Debug\IntegerOperations.Tests.csproj.CopyComplete
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations.Tests\obj\Debug\IntegerOperations.Tests.dll
+D:\EPAM\NET.S.2018.Struk.02\IntegerOperations.Tests\obj\Debug\IntegerOperations.Tests.pdb

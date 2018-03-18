@@ -1,0 +1,5 @@
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil\bin\Debug\ArrayUtil.dll
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil\bin\Debug\ArrayUtil.pdb
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil\obj\Debug\ArrayUtil.csproj.CoreCompileInputs.cache
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil\obj\Debug\ArrayUtil.dll
+D:\EPAM\NET.S.2018.Struk.02\ArrayUtil\obj\Debug\ArrayUtil.pdb

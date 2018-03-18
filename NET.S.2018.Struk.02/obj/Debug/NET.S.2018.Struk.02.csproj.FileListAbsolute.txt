@@ -1,0 +1,6 @@
+D:\EPAM\NET.S.2018.Struk.02\NET.S.2018.Struk.02\bin\Debug\NET.S.2018.Struk.02.dll
+D:\EPAM\NET.S.2018.Struk.02\NET.S.2018.Struk.02\bin\Debug\NET.S.2018.Struk.02.pdb
+D:\EPAM\NET.S.2018.Struk.02\NET.S.2018.Struk.02\obj\Debug\NET.S.2018.Struk.02.csprojResolveAssemblyReference.cache
+D:\EPAM\NET.S.2018.Struk.02\NET.S.2018.Struk.02\obj\Debug\NET.S.2018.Struk.02.csproj.CoreCompileInputs.cache
+D:\EPAM\NET.S.2018.Struk.02\NET.S.2018.Struk.02\obj\Debug\NET.S.2018.Struk.02.dll
+D:\EPAM\NET.S.2018.Struk.02\NET.S.2018.Struk.02\obj\Debug\NET.S.2018.Struk.02.pdb
