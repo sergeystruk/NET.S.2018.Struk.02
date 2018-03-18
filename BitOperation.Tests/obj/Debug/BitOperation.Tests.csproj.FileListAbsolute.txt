@@ -1,0 +1,12 @@
+D:\EPAM\NET.S.2018.Struk.02\BitOperation.Tests\bin\Debug\BitOperation.Tests.dll
+D:\EPAM\NET.S.2018.Struk.02\BitOperation.Tests\bin\Debug\BitOperation.Tests.pdb
+D:\EPAM\NET.S.2018.Struk.02\BitOperation.Tests\bin\Debug\BitOperation.dll
+D:\EPAM\NET.S.2018.Struk.02\BitOperation.Tests\bin\Debug\nunit.framework.dll
+D:\EPAM\NET.S.2018.Struk.02\BitOperation.Tests\bin\Debug\BitOperation.pdb
+D:\EPAM\NET.S.2018.Struk.02\BitOperation.Tests\bin\Debug\nunit.framework.pdb
+D:\EPAM\NET.S.2018.Struk.02\BitOperation.Tests\bin\Debug\nunit.framework.xml
+D:\EPAM\NET.S.2018.Struk.02\BitOperation.Tests\obj\Debug\BitOperation.Tests.csprojResolveAssemblyReference.cache
+D:\EPAM\NET.S.2018.Struk.02\BitOperation.Tests\obj\Debug\BitOperation.Tests.csproj.CoreCompileInputs.cache
+D:\EPAM\NET.S.2018.Struk.02\BitOperation.Tests\obj\Debug\BitOperation.Tests.csproj.CopyComplete
+D:\EPAM\NET.S.2018.Struk.02\BitOperation.Tests\obj\Debug\BitOperation.Tests.dll
+D:\EPAM\NET.S.2018.Struk.02\BitOperation.Tests\obj\Debug\BitOperation.Tests.pdb
