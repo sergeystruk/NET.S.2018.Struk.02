@@ -5,8 +5,6 @@ namespace IntegerOperations.Tests
 {
     public class IntegerFinderTests
     {
-        private long testVariable = 0;
-
         [TestCase(12, 0L, ExpectedResult = 21)]
         [TestCase(513, 0L, ExpectedResult = 531)]
         [TestCase(2017, 0L, ExpectedResult = 2071)]
@@ -22,6 +20,6 @@ namespace IntegerOperations.Tests
 
         [Test]
         public void FindNextBiggerNumber_WithNegative_ThrowArgumentOutOfRangeException()
-            => Assert.Throws<ArgumentOutOfRangeException>(() => IntegerFinder.FindNextBiggerNumber(-321, out testVariable));
+            => Assert.Throws<ArgumentOutOfRangeException>(() => IntegerFinder.FindNextBiggerNumber(-321, out _));
     }
 }

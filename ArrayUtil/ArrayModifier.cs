@@ -44,6 +44,7 @@ namespace ArrayUtil
                     {
                         list.Add(array[i]);
                     }
+
                     subElem /= 10;
                 }
             }

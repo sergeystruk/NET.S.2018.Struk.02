@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace BitOperation
 {
     /// <summary>
@@ -8,12 +9,12 @@ namespace BitOperation
     {
         /// <summary>
         /// Inserts bytes of first number into second number
-        /// lefting second number's bytes on positions from start to end
+        /// leaving second number's bytes on positions from start to end
         /// </summary>
-        /// <param name="a"> 
+        /// <param name="firstNumb"> 
         /// First number
         /// </param>
-        /// <param name="b">
+        /// <param name="secondNumb">
         /// Second Number
         /// </param>
         /// <param name="start">
@@ -23,9 +24,9 @@ namespace BitOperation
         /// End index
         /// </param>
         /// <returns>
-        /// New int
+        /// New number
         /// </returns>
-        public static int InsertNumber(int a, int b, int start, int end)
+        public static int InsertNumber(int firstNumb, int secondNumb, int start, int end)
         {
             if (start > end)
             {
@@ -42,52 +43,15 @@ namespace BitOperation
                 throw new ArgumentOutOfRangeException(nameof(end));
             }
 
-            string firstNum = Convert.ToString(a, 2);
-            string secondNum = Convert.ToString(b, 2);
-            char[] firstNumChar = new char[32];
-            char[] secondNumChar = new char[32];
-            int countFirstLen = firstNum.Length - 1;
-            int countSecondLen = secondNum.Length - 1;
-            for (int i = 31; i >= 0; i--)
-            {
-                if (i > 31 - firstNum.Length)
-                {
-                    firstNumChar[i] = firstNum[countFirstLen];
-                    countFirstLen--;
-                }
-                else
-                {
-                    firstNumChar[i] = '0';
-                }
-
-                if (i > 31 - secondNum.Length)
-                {
-                    secondNumChar[i] = secondNum[countSecondLen];
-                    countSecondLen--;
-                }
-                else
-                {
-                    secondNumChar[i] = '0';
-                }
-            }
-
-            char[] result = new char[32];
-            int count = 31;
-
-            for (int i = 31; i >= 0; i--)
-            {
-                if (i >= 31 - end && i <= 31 - start)
-                {
-                    result[i] = secondNumChar[count];
-                    count--;
-                }
-                else
-                {
-                    result[i] = firstNumChar[i];
-                }
-            }
-
-            return Convert.ToInt32(new string(result), 2);
+            int startToEndOnes = int.MaxValue >> 31 - (end - start + 1);
+            startToEndOnes <<= start;
+            firstNumb &= ~startToEndOnes;
+            int overFlowChecker = int.MaxValue;
+            overFlowChecker >>= 31 - (end - start + 1);
+            overFlowChecker &= secondNumb;
+            overFlowChecker <<= start;
+            overFlowChecker &= startToEndOnes;
+            return firstNumb | overFlowChecker;
         }
     }
 }

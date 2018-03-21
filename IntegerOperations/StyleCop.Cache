@@ -29,9 +29,6 @@
       </violation>
     </violations>
   </sourcecode>
-  <project key="1685785081">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
   <sourcecode name="IntegerFinder.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2018.03.11 17:13:41.289</styleCop>
@@ -81,4 +78,7 @@
       </violation>
     </violations>
   </sourcecode>
+  <project key="1685785081">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
 </stylecopresultscache>
